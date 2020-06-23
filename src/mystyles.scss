@@ -1,0 +1,16 @@
+$main-color:#21315A;
+$body-color:#CCD5EC;
+$font-color: #94CE5A;
+
+body {
+    background-color: $body-color;
+    margin: 0;
+    padding: 0;
+}
+
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100vh;
+}
